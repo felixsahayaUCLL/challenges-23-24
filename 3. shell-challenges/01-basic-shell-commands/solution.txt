@@ -1,0 +1,5 @@
+mkdir solution                                                      
+touch solution.md
+cp solution/solution.md .
+mv solution.md solution.txt
+rm -R solution
