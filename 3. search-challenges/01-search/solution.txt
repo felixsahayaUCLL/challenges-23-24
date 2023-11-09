@@ -1,0 +1,5 @@
+Python
+SQL injection
+1991
+Objects.equals()
+20000000000000
